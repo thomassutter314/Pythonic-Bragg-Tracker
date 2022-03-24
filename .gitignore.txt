@@ -1,1 +1,1 @@
-thisFileShouldBeIgnored.txt
+*.st
